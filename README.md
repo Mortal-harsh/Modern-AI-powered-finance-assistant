@@ -267,3 +267,5 @@ During project demonstration or viva, you can highlight:
 3. **True PL/SQL Integration**: Python does not calculate financial sums locally; it invokes Oracle PL/SQL functions (`GET_TOTAL_INCOME`, `GET_TOTAL_EXPENSES`) and procedures returning `SYS_REFCURSOR`.
 4. **Data Science Integration**: Pandas and NumPy compute rolling averages, MoM percentage changes, and distributions embedded directly in Tkinter via Matplotlib.
 5. **Report Generation**: One-click export to CSV spreadsheet and printable PDF via ReportLab.
+6. Prince Raj (@PrinceRaj-45
+) - Developer & Contributor
